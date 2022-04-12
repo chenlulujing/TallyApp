@@ -1,0 +1,5 @@
+CCTV-1,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8
+CCTV-2,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203603.m3u8
+CCTV-3,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203803.m3u8
+CCTV-4,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204803.m3u8
+CCTV-5,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000205103.m3u8
